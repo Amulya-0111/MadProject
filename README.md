@@ -8,7 +8,7 @@
 
 The **Emergency Contact App** is an Android application developed using **Android Studio** and **Java**. This app is designed to provide users with a quick and reliable way to contact help during emergency situations.
 
-In critical moments, manually searching for contacts can be time-consuming. This application simplifies the process by allowing users to store important emergency contacts and access them instantly through a user-friendly interface.
+In critical moments, manually searching for contacts can be time-consuming. This application simplifies the process by allowing users to store important emergency contacts and access them instantly through a User-friendly interface.
 
 With features like **one-tap calling** and an **SOS button**, users can quickly reach out for help when needed.
 
