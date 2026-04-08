@@ -1,7 +1,5 @@
 ### **📱 Project Title**
 
----
-
 **Emergency Contact App**
 
 ---
