@@ -31,7 +31,7 @@ With features like **one-tap calling** and an **SOS button**, users can quickly 
 
 8.Lock Screen SOS Access
 
-9.Contact Priority Levels
+9.Contact Priority Level
 
 10.Offline Mode Support
 
